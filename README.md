@@ -1,1 +1,2 @@
 # Fitness-Final-Pro
+Hello! Welcome to the Fitness-Final-Pro repository. This project is designed to help users track their fitness goals and progress through a user-friendly interface and comprehensive features.
